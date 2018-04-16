@@ -1,10 +1,10 @@
 body {
 font-family: courier new;
-  color: red;
 }
 
 header {
   display: inline;
+  color: red;
 }
 
 .photo {
