@@ -5,13 +5,15 @@ font-family: courier new;
 .photo {
   border: 2px solid black;
   float: right;
+  width: 195px;
+  height: 225px;
 }
 
 .container {
   margin-left: 100px;
   margin-right: 100px;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 70px;
+  padding-right: 70px;
   padding-top: 20px;
   padding-bottom: 20px;
   border-left: 4px dashed black;
