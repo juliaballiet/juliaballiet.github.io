@@ -8,6 +8,6 @@ ul {
 
 .photo {
   float: left;
-  border: 2px solid #000;
+  border: 2px solid black;
   display: inline;
 }
