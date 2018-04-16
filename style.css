@@ -5,3 +5,9 @@ font-family: courier new;
 ul {
   display: inline;
 }
+
+.photo {
+  float: left;
+  border: 2px solid #000;
+  display: inline;
+}
