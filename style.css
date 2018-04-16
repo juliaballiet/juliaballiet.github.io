@@ -1,8 +1,9 @@
 body {
 font-family: courier new;
+  color: red;
 }
 
-header div {
+header {
   display: inline;
 }
 
