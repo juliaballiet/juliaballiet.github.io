@@ -7,7 +7,5 @@ ul {
 }
 
 .photo {
-  float: left;
   border: 2px solid black;
-  display: inline;
 }
