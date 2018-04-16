@@ -2,7 +2,7 @@ body {
 font-family: courier new;
 }
 
-ul {
+.header {
   display: inline;
 }
 
