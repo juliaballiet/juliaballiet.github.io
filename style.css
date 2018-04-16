@@ -2,9 +2,8 @@ body {
 font-family: courier new;
 }
 
-header {
+.top {
   display: inline;
-  color: red;
 }
 
 .photo {
