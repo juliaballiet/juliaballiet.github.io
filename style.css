@@ -1,9 +1,17 @@
 body {
 font-family: courier new;
-  color: red;
 }
 
 .photo {
   border: 2px solid black;
   float: right;
+  height: 70%;
+  width: 70%;
+}
+
+container {
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 40px 20px;
+  border: 4px dashed black;
 }
