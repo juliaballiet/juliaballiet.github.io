@@ -2,16 +2,12 @@ body {
 font-family: courier new;
 }
 
-header {
-  padding-top: 20px;
-}
-
 .photo {
   border: 2px solid black;
   float: right;
   width: 195px;
   height: 225px;
-  margin-right: 20px;
+  margin-right: 60px;
 }
 
 .container {
@@ -34,5 +30,9 @@ header {
 }
 
 .down {
-  margin-top: 40px;
+  margin-top: 80px;
+}
+
+.inline {
+  position: inline;
 }
