@@ -2,17 +2,21 @@ body {
 font-family: courier new;
 }
 
+h1 {
+  font-size: 200%
+}
+
 .photo {
   border: 2px solid black;
   float: right;
   width: 195px;
   height: 225px;
-  margin-right: 60px;
+  margin-right: 40px;
 }
 
 .container {
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 150px;
+  margin-right: 150px;
   padding-left: 80px;
   padding-right: 80px;
   padding-top: 20px;
