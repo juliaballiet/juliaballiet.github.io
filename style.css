@@ -21,6 +21,9 @@ h4 {
   font-size: 18px;
 }
 
+ul {
+  margin-top: 10px
+
 .photo {
   border: 2px solid black;
   float: right;
@@ -41,7 +44,7 @@ h4 {
 }
 
 .work {
-  padding-top: 20px;
+  margin-top: 10px;
 }
 
 .down {
