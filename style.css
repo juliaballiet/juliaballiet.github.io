@@ -12,6 +12,7 @@ h2 {
 
 h3 {
   font-size: 20px;
+  margin-bottom: -10px;
 }
 
 h4 {
@@ -38,7 +39,7 @@ h4 {
 }
 
 .work {
-  padding-top: 20px;
+  padding-top: 30px;
 }
 
 .down {
