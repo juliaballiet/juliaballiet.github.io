@@ -44,6 +44,10 @@ ul {
   border-right: 4px dashed black;
 }
 
+.right {
+  float: right;
+}
+
 .work {
   margin-top: 30px;
 }
